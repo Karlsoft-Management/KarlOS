@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+Graphicore.egg-info/PKG-INFO
+Graphicore.egg-info/SOURCES.txt
+Graphicore.egg-info/dependency_links.txt
+Graphicore.egg-info/entry_points.txt
+Graphicore.egg-info/top_level.txt
+graphicore/__init__.py
+graphicore/__main__.py
